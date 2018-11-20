@@ -1,0 +1,19 @@
+<div class="pmd">
+        	<div class="pmdmi"><img src="images/Article_Pic/prg10/sift.png" /></div>
+            <div class="pmid">
+           	  <div class="pmtd" style="width:100%">SIFT as a Web Service Using Java</div>
+                <div class="pmwd">A. Pahlavan Tafti, H. Hassannia, L. Zhang</div>
+                <div class="pmdd">
+                	Scale-invariant feature transform (SIFT) is a very famous algorithm in image analysis and machine vision to detect and describe Keypoints (local features) in images. Improved SIFT algorithm was published by David Lowe in 2004. SIFT algorithm has two major parts: 1) Keypoints detection including scale space exterma detection and keypoints localization, 2) Keypoints description including orientation computation and assignment. In this project we impelemented SIFT algorithm as a web service by using Java (Java2SE 7) programming language. Java code would be available by e-mail. 
+
+
+
+
+
+                </div>
+                <div class="pmmld">
+               	  <a href="files/siftaswebservice.pdf" class="pmal">[Presentation: PDF]</a><br /><br/>
+                </div>
+            </div>
+        </div>
+        <div class="warp"></div>
