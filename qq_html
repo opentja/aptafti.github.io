@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="icon.ico" type="image/vnd.microsoft.icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ahmad pahlavan tafti personal web site">
+<meta name="keywords" content="ahamad pahlavan tafti , book , image processing , Wrox ,  برنامه نويسي وب ? , Professional Web 2.0 Programming , ice Versa , انتشارات ناقوس , مهندس احمد پهلوان تفتي , UML  , ahmad pahlavan , hassan_shojaie@yahoo.com , مهندس شجاعي , http://www.shojaee.com , اعتراض کنيد، اين احساس بد ناشي از ترجمه اي بد است! , Internet Explorer , Hassan Shojaee , احمد پهلوان تفتي , تفتي , پهلوان  , http://www.wrox.com/WileyCDA/WroxTitle/productCd-0470087889.html , univercity , teaching , teach , cv , emgu , opencv , c# , book , publish , matlab library , oracle , IEEE , editor . author , اوراکل , مطلب , ترجمه , کتاب , تدريس">
+<title>Ahmad Pahlavan Tafti Personal Web Site</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<link rel="stylesheet" type="text/css" href="css/slider.css" />
+<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="js/slider/jquery.nivo.slider.pack.js"></script>
+</head>
+<title>Ahmad Pahlavan Tafti Personal Web Site</title>
+</head>
+<script>$(function(){$('#slider').nivoSlider({controlNav: false, pauseTime: 7000,animSpeed: 2000});});</script>
+<body>
+<center>
+<div class="maindiv">
+	<div class="header">
+        <div class="headerup"><div class="name"><img src="images/name2.png" /></div></div>
+        <div style="width:100%;float:left;height:1px;background:#f6f6f6"></div> 
+        <div style="width:100%;height:30px;float:left;background:#333">
+            <div class="mbe">
+	        	<div style="width:100%;height:30px;margin:5px 0">
+	        		<table class="te" width="100%">
+	                    <tbody>
+		                <tr>
+		                        <td width="100px"><strong>Biography</strong></td>
+		                	<td class="btncurser">|</td>
+			                <td width="100px"><a href='studies.html'>Studies</a></td>
+                                	<td class="btncurser">|</td>
+                                	<td width="100px"><a href='cv.html'>C.V</a></td>
+                                	<td class="btncurser">|</td>
+	                        	<td width="100px"><a href='publications.html'>Publications</a></td>
+                               		<td class="btncurser">|</td>
+                               		<td width="100px"><a href='researchprojects.html'>Research Projects</a></td>
+                               		<td class="btncurser">|</td>
+	                        	<td width="100px"><a href='book.html'>Book</a></td>
+	                        	<td class="btncurser">|</td>
+	                        	<td width="100px"><a href='gallery.html'>Photo Gallery</a></td>
+                           	</tr>
+                        </tbody>
+                    </table>
+                    <table class="te" width="100%" bgcolor="#333333">
+	                    <tbody>
+		                <tr>
+		                        <td width="100px"><div style="width:100%;height:4px;background:#0CF;margin-top:-8px"></div></td>
+		                        <td class="btncurser">&nbsp;</td>
+		                        <td width="100px"></td>
+                                	<td class="btncurser">&nbsp;</td>
+                                	<td width="100px"></td>
+                                	<td class="btncurser">&nbsp;</td>
+	                        	<td width="100px"></td>
+                               		<td class="btncurser">&nbsp;</td>
+                               		<td width="100px"></td>
+                               		<td class="btncurser">&nbsp;</td>
+	                        	<td width="100px"></td>
+	                        	<td class="btncurser">&nbsp;</td>
+	                        	<td width="100px"></td>
+                           	</tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width:100%;height:auto;float:left;text-align:left;background:#F7F7F7">
+    	<table style="width: 100%; height: 45px;" border="0">
+            <tbody>
+            	<tr>
+			<td height="182"><p><img title="Ahmad Pahlavan Tafti" src="images/Ahmad_Pahlavan_tafti.png" alt="Ahmad Pahlavan Tafti" width="170" height="170" /></p></td>
+            		<td>
+		              <p><strong><span style="font-family: arial black,avant garde; font-size: medium;">Ahmad Pahlavan Tafti</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+            			<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+            			<p><strong>Research Interests: </strong></p>
+            			<p><strong></strong> Machine Vision, Digital Image Analysis, Machine Learning, Computer Graphics.</p>
+            			<hr />
+            			<p><strong>M.S.</strong>, Computer Science, Software Engineering, IAU. (<span style="color: #0000ff;text-decoration:underline"><a href="files/AhmadPahlavanTafti_CV.pdf" target="_blank"><span style="color:#0000ff;">Curriculum Vitae</span></a></span>)</p>
+            		</td>
+            	</tr>
+            </tbody>
+     	</table>
+        <table style="width: 100%; height: 48px;" border="0">
+            <tbody>
+                <tr>
+                    <td>
+                    	<p style="text-align:justify"><strong>Biography:</strong><br />
+I received my BS and M.Sc. degree in Computer Science,  Software Engineering from Islamic Azad University. Some part of my  international studies was carried out at Technical University of Wien, Medical  University of Wien in Vienna, Austria, Oracle Education Center in KL, Malaysia  and World Customs Organization in Brussels, Belgium. I was awarded the Top Researcher of the year 2009, in IR Customs  Administration.<br />
+From 2008-2010, I was part-time Junior Researcher which  cooperate with Professor Mohammad V. Malakooti at Islamic Azad University,  Dubai, UAE. Dr. Mohammad V. Malakooti has a PhD in Electrical Engineering from  the Oklahoma State University, Stillwater, USA. He was my <a href="files/Master_Thesis_ Ahmad_Pahlavan_Tafti.pdf" style="color:#0000ff;text-decoration:underline">master thesis</a> advisor. From 2010-2011, I was  part-time Junior Researcher which cooperate with Professor Hamid Reza Naji at  International Center of Science and High Technology, Kerman, Iran. Dr. Hamid  Reza Naji has a PhD in Computer Engineering from the University of Alabama in  Huntsville, USA.  <br />
+Machine vision and digital image analysis are the  intersection of the fields I find most interesting, exciting, intellectually  and practically satisfying namely engineering and mathematics. I have worked  diligently to increase my understanding and mastery of these subjects, and I  have greatly enjoyed the process. I almost have worked near three years with  different digital image analysis subjects like segmentation, object detection  and feature extraction with Matlab, C++ and OpenCV library to develop some <a href="researchprojects.html" style="color:#0000ff;text-decoration:underline">research projects.</a> <br />
+I like to work closely with my professors and  colleagues to learn their experiences and share with them (if I have!). My lifetime hobbies  have been spending time with my bountiful family, reading advanced mathematics,  cycling and swimming. I publish my journal articles and conference papers under  A. Pahlavan Tafti.</p></td>
+                </tr>
+            </tbody>
+        </table>
+        <div id="slider" class="nivoSlider">
+        	<a href="http://www.iccv2013.org/" target="new">
+                <img src="images/Article_Pic/icip2013.jpg" />
+            </a>                     	
+            <a href="http://www.iccv2013.org/" target="new">
+                <img src="images/Article_Pic/icpram2013.jpg" />
+            </a>
+            <a href="http://www.iccv2013.org/" target="new">
+                <img src="images/Article_Pic/isbi2013.jpg" />
+            </a>
+            <a href="http://www.accv2012.org/bbs/board.php?bo_table=A01" target="new">
+            	<img src="images/Article_Pic/cvision.jpg" />
+            </a>
+      	</div> 
+    </div>
+    <div style="width:100%;height:30px;background:#333;margin:5px 0;float:left;font-family:tahoma;text-align:right">
+   		<div style="margin:10px 5px;float:left;font-size:10px;color:#999;height:5px">
+        	Ahmad Pahlavan Tafti Personal WebSite. All Right Reserved 2012
+        	</div>
+        <div style="margin:10px 5px;float:right;font-size:8px;color:#666;height:5px">Support & Design By atabak hossein nia</div>
+    </div>
+</div>
+</center>
+</body>
+</html>
